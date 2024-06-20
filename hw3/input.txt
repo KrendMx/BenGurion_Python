@@ -1,0 +1,4 @@
+Maxim : Math, Science, Art, 
+Daria : Math, History,
+Pavel : Art, History, Science 
+David : Math, Science
